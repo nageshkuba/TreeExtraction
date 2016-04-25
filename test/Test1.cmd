@@ -1,0 +1,1 @@
+python -m cProfile -o CNN_profile.profile C:\Users\nuba1\Documents\Trees\treeextraction\src\CNN.py C:\Users\nuba1\Documents\Trees\treeextraction\data\input\site1 -o C:\Users\nuba1\Documents\Trees\treeextraction\data\output
